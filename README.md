@@ -5,15 +5,15 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 
 # Methods
 1. Scores of each matches will be predicted using Poisson distribution. (Match Based Rating)
-    - The result of this (W/D/L percent) will be used as features in regression models
     - How many goals will be scored in 90 minutes
     - Using teams' offensive and defensive rating 
-    
+    - The result of this (W/D probability) will be used as features in the next season
+    - Average 38 games   
 2. Save probabilities.
 3. Combine the probabilities (Match Based Rating) and other datas (Roster Based Rating).
     - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
     - PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
-4. After combine MBR and RBR (Off. rating, Def. rating, Game data, possion WR, possion DR, etc.), train/test split seasons date in order to fit models.(Regression models to predict total points of all teams in EPL 18/19).
+4. After combine MBR and RBR (Off. rating, Def. rating, Game data, possion WR, possion DR, etc.), train/test split seasons date in order to fit models (Regression models to predict total points of all teams in EPL 18/19).
 
 # Assumptions
 1. Goal scoring in soccer follows a Poisson process.
