@@ -18,7 +18,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 # Assumptions
 1. Goal scoring in soccer follows a Poisson process.
 2. There's no transfers during season (after the new season has begun).
-    - Only best 15 players in the team play
+    - Only best 15 players in the team play (or less, depends on player data)
 3. There's no injury.
 4. Players conditions(fatigue level), weathers are the same.
 
