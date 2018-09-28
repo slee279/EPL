@@ -16,7 +16,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 1. There's no transfers during season (after the new season has begun).
     - Only best 15 players in the team play
 2. There's no injury.
-3. Weathers are the same.
+3. Players conditions(fatigue level), weathers are the same.
 
 
 # If time permits
