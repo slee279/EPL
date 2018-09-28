@@ -5,8 +5,10 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 
 # Methods
 1. Scores of each matches will be predicted using Poisson distribution. (Match Based Rating)
+    - The result of this (W/D/L percent) will be used as features in regression models
     - How many goals will be scored in 90 minutes
     - Using teams' offensive and defensive rating 
+    
 2. Save probabilities.
 3. Combine the probabilities (Match Based Rating) and other datas (Roster Based Rating).
     - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
@@ -24,7 +26,10 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 # If time permits
 1. Calculate the fatigue level (count days between matches).
 2. Once I am able to forecast individual matches, turn those match-by-match probabilities into a season forecast using Monte Carlo simulations. Simulate the season thousands of times, and the probability that a team wins the tournament represents the share of simulations in which it wins it.
+    - Predict all 380 games EPL 18/19, only use poisson distribution to predict each games
 
+# Questions
+1. Predicting all 380 games to get total points VS. Fit regression model to predict total points.
 
 # Resource
 https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/   
