@@ -7,7 +7,7 @@ Scores of each matches will be predicted using Poisson distribution.
   - How many goals will be scored in 90 minutes
   - Using teams' offensive rating and defensive rating 
   
-The probability of Win/Draw/Lose with Poisson, will be calculated with teams overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com) and pes database(www.pesmaster.com) to predict the result more accurately.
+The probability of Win/Draw/Lose with Poisson, will be calculated with teams overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com) and PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
 
 
   
