@@ -7,7 +7,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 1. Scores of each matches will be predicted using Poisson distribution. (Match Based Rating)
     - How many goals will be scored in 90 minutes
     - Using teams' offensive and defensive rating 
-    - The result of this (W/D probability) will be used as features in the next season
+    - The result of this (W/D probability) will be used as features (rating) in the next season
     - Average 38 games   
 2. Save probabilities.
 3. Combine the probabilities (Match Based Rating) and other datas (Roster Based Rating).
