@@ -12,6 +12,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
     - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
     - PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
 
+
 # Assumptions
 1. There's no transfers during season (after the new season has begun).
     - Only best 15 players in the team play
@@ -21,3 +22,4 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 
 # If time permits
 1. Calculate the fatigue level (count days between matches).
+2. Once I am able to forecast individual matches, turn those match-by-match probabilities into a season forecast using Monte Carlo simulations. Simulate the season thousands of times, and the probability that a team wins the tournament represents the share of simulations in which it wins it.
