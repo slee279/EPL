@@ -13,7 +13,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 3. Combine the probabilities (Match Based Rating) and other datas (Roster Based Rating).
     - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
     - PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
-4. After combine MBR and RBR (Off. rating, Def. rating, Game data, possion WR, possion DR, etc.), train/test split seasons date in order to fit models (Regression models to predict total points of all teams in EPL 18/19).
+4. After combine MBR and RBR (Off. rating, Def. rating, Game data, possion WR, possion DR, etc.), train/test split four seasons (14/15 ~ 17/18) in order to fit models (Regression models to predict total points of all teams in EPL 18/19).
 
 # Assumptions
 1. Goal scoring in soccer follows a Poisson process.
