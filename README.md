@@ -29,7 +29,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
     - Predict all 380 games EPL 18/19, only use poisson distribution to predict each games
 
 # Questions
-1. Predicting all 380 games to get total points VS. Fit regression model to predict total points.
+1. Predicting all 380 games to get total points VS. Regression analysis to predict total points.
 
 # Resource
 https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/   
