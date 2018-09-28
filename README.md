@@ -26,16 +26,10 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 
 
 # Source
-https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/
-
-https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/
-
-www.football-data.co.uk 
-
-www.transfermarkt.co.uk 
-
-www.sportsmole.co.uk 
-
-www.soccerstats.com
-
-www.pesmaster.com
+https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/   
+https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/  
+www.football-data.co.uk   
+www.transfermarkt.co.uk   
+www.sportsmole.co.uk   
+www.soccerstats.com   
+www.pesmaster.com  
