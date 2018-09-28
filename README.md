@@ -23,3 +23,13 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 # If time permits
 1. Calculate the fatigue level (count days between matches).
 2. Once I am able to forecast individual matches, turn those match-by-match probabilities into a season forecast using Monte Carlo simulations. Simulate the season thousands of times, and the probability that a team wins the tournament represents the share of simulations in which it wins it.
+
+
+# Source
+https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/
+https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/
+www.football-data.co.uk 
+www.transfermarkt.co.uk 
+www.sportsmole.co.uk 
+www.soccerstats.com
+www.pesmaster.com
