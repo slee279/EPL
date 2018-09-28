@@ -4,11 +4,11 @@ Soccer Match Predictor
 Soccer Match Predictor will predict the result of each matches and the final standing of English Premier League 2018/2019 (EPL) using past five seasons (2013/14 ~ 2017/18). 
 
 # Methods
-1. Scores of each matches will be predicted using Poisson distribution. 
+1. Scores of each matches will be predicted using Poisson distribution. (Match Based Rating)
     - How many goals will be scored in 90 minutes
     - Using teams' offensive and defensive rating 
 2. Save probabilities in the dataframe.
-3. Combine the probabilities and other datas and perform classification.
+3. Combine the probabilities and other datas and perform classification. (Roster Based Rating)
     - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
     - PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
 
