@@ -9,11 +9,12 @@ Soccer Match Predictor will predict the result of each matches and the final sta
     - Using teams' offensive rating and defensive rating 
 2. Save probabilities in the dataframe.
 3. Combine the probabilities and other datas and perform classification.
-    - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com) and PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
+    - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
+    - PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
 
 # Assumptions
 1. There's no transfers during season (after the new season has begun).
-  - Only best 15 players in the team play
+    - Only best 15 players in the team play
 2. There's no injury.
 3. Weathers are the same.
 
