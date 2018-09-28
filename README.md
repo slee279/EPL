@@ -6,7 +6,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
 # Methods
 1. Scores of each matches will be predicted using Poisson distribution. 
     - How many goals will be scored in 90 minutes
-    - Using teams' offensive rating and defensive rating 
+    - Using teams' offensive and defensive rating 
 2. Save probabilities in the dataframe.
 3. Combine the probabilities and other datas and perform classification.
     - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
