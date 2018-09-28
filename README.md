@@ -8,7 +8,7 @@ Soccer Match Predictor will predict the result of each matches and the final sta
     - How many goals will be scored in 90 minutes
     - Using teams' offensive and defensive rating 
 2. Save probabilities in the dataframe.
-3. Combine the probabilities and other datas and perform classification. (Roster Based Rating)
+3. Combine the probabilities and other datas (Roster Based Rating) and perform classification.
     - EPL teams' overall stats from past database(www.football-data.co.uk, www.transfermarkt.co.uk, www.sportsmole.co.uk, www.soccerstats.com)
     - PES(Pro Evolution Soccer) database(www.pesmaster.com) to predict the result more accurately.
 
