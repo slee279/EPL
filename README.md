@@ -1,4 +1,4 @@
-# matchpredictor
+# EPL
 Soccer Match Predictor
 
 Soccer Match Predictor will predict the result of each matches and the final standing of English Premier League 2018/2019 (EPL) using past five seasons (2013/14 ~ 2017/18). 
