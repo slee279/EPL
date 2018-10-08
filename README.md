@@ -22,7 +22,7 @@ The final result will be evalutated by two methods.
     - Tested models include: KNN, Logistic Regression, Neural Network, Random Forest
 ## Predicting Result Using Poisson Distribution
 ### Modeling
-1. Use poisson distribution in order to get how many goals each team will score in 90 minutes in a probability.
+1. Use poisson distribution in order to get how many goals each team will score in 90 minutes in a probability (https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/).
 2. Get the total probability of the result (W/D/L probability).
 3. Predict which team will win (the result will be considered as a draw if W or L < 40%)
 
