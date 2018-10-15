@@ -32,6 +32,7 @@ The final result will be evalutated by two methods.
 2. There's no transfers during season (after the new season has begun).
 3. There's no injury.
 4. Players conditions(fatigue level), weathers are the same.
+5. There will be 272 matches per seasons between 17 teams. Promoted teams from the past seasons are not predicted.
 
 
 # If time permits
@@ -40,7 +41,7 @@ The final result will be evalutated by two methods.
     - Predict all 380 games EPL 18/19, only use poisson distribution to predict each games
 
 # Questions
-1. Predicting all 380 games to get total points VS. Regression analysis to predict total points.
+1. Predicting all games to get total points VS. Regression analysis to predict total points.
 
 # Resource
 https://fivethirtyeight.com/features/how-our-2018-world-cup-predictions-work/   
