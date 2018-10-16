@@ -1,21 +1,21 @@
-Team,Ovr,Def,Mid,Fwd,Phy,Spd
-Manchester City,83,82,83,85,75,78
-Arsenal,82,81,83,83,75,76
-Chelsea,82,81,84,84,78,78
-Manchester Utd,82,80,82,84,77,76
-Tottenham,81,80,81,81,75,77
-Liverpool,80,79,79,80,74,77
-West Ham Utd,79,79,78,80,78,77
-Everton,79,80,79,79,79,76
-Leicester City,78,77,78,79,78,75
-Southampton,78,78,78,78,74,76
-Crystal Palace,78,78,77,78,78,77
-Watford,77,77,78,77,79,74
-Stoke City,77,77,78,77,78,75
-Swansea City,77,77,77,78,76,75
-Sunderland,76,75,77,76,75,72
-Hull City,76,75,76,76,77,77
-Bournemouth,75,76,76,76,75,78
-Middlesbrough,75,75,75,75,78,74
-West Bromwich,75,76,74,72,76,71
-Burnley,74,75,74,75,74,74
+Team,Season,Ovr,Def,Mid,Fwd,Phy,Spd
+Manchester City,17,83,82,83,85,75,78
+Arsenal,17,82,81,83,83,75,76
+Chelsea,17,82,81,84,84,78,78
+Manchester Utd,17,82,80,82,84,77,76
+Tottenham,17,81,80,81,81,75,77
+Liverpool,17,80,79,79,80,74,77
+West Ham Utd,17,79,79,78,80,78,77
+Everton,17,79,80,79,79,79,76
+Leicester City,17,78,77,78,79,78,75
+Southampton,17,78,78,78,78,74,76
+Crystal Palace,17,78,78,77,78,78,77
+Watford,17,77,77,78,77,79,74
+Stoke City,17,77,77,78,77,78,75
+Swansea City,17,77,77,77,78,76,75
+Sunderland,17,76,75,77,76,75,72
+Hull City,17,76,75,76,76,77,77
+Bournemouth,17,75,76,76,76,75,78
+Middlesbrough,17,75,75,75,75,78,74
+West Bromwich,17,75,76,74,72,76,71
+Burnley,17,74,75,74,75,74,74

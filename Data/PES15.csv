@@ -1,21 +1,21 @@
-Team,Ovr,Def,Mid,Fwd,Phy,Spd
-Manchester City,81,81,83,82,82,76
-Chelsea,79,77,82,82,80,77
-Liverpool,79,78,81,80,79,79
-Manchester Utd,78,74,79,83,77,78
-Tottenham,77,78,75,78,79,77
-Arsenal,77,77,76,81,77,75
-Newcastle Utd,75,76,77,73,78,76
-West Bromwich,75,74,76,71,80,73
-Hull City,75,75,76,77,78,75
-Everton,74,72,75,76,76,75
-QP Rangers,74,73,75,75,77,74
-Stoke City,74,72,74,78,79,71
-Sunderland,74,76,75,71,78,73
-Aston Villa,74,74,75,77,79,76
-West Ham Utd,73,72,73,73,79,73
-Southampton,73,74,73,74,77,75
-Crystal Palace,73,75,72,73,79,74
-Swansea City,72,71,73,75,76,73
-Leicester City,69,70,71,66,73,72
-Burnley,68,66,68,69,73,70
+Team,Season,Ovr,Def,Mid,Fwd,Phy,Spd
+Manchester City,15,81,81,83,82,82,76
+Chelsea,15,79,77,82,82,80,77
+Liverpool,15,79,78,81,80,79,79
+Manchester Utd,15,78,74,79,83,77,78
+Tottenham,15,77,78,75,78,79,77
+Arsenal,15,77,77,76,81,77,75
+Newcastle Utd,15,75,76,77,73,78,76
+West Bromwich,15,75,74,76,71,80,73
+Hull City,15,75,75,76,77,78,75
+Everton,15,74,72,75,76,76,75
+QP Rangers,15,74,73,75,75,77,74
+Stoke City,15,74,72,74,78,79,71
+Sunderland,15,74,76,75,71,78,73
+Aston Villa,15,74,74,75,77,79,76
+West Ham Utd,15,73,72,73,73,79,73
+Southampton,15,73,74,73,74,77,75
+Crystal Palace,15,73,75,72,73,79,74
+Swansea City,15,72,71,73,75,76,73
+Leicester City,15,69,70,71,66,73,72
+Burnley,15,68,66,68,69,73,70
