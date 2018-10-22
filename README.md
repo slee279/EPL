@@ -42,7 +42,7 @@ The final result will be evalutated by two methods.
 3. Team standing by week season 18/19. [plotly](https://plot.ly/~slee279/51/).
 
 ## Matplotlib
-1. Number of Goals Scored per Match. [link](
+1. Number of Goals Scored per Match. [link](https://github.com/slee279/EPL/blob/master/Assets/goaldistribution.png?raw=true)
 
 ## radviz
 1. Classification EDA
